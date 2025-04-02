@@ -46,6 +46,16 @@ while bike purchased of (3 buyers  $160,000 income) has the least bike purchased
 The single with 259 buyers has the highest purchased of bike comapred to married with 236 buyers that has the least number of buyers ....
 
 ![Image](https://github.com/user-attachments/assets/43d88b4a-1ae1-4ffc-9bba-d9a8699bce7d)
+
+## PURCHASED BIKE BY NUMBER OF CHILDREN
+Buyers with "0 number of child" have 146 buyers which make it highest bike purchased compare to buyers with
+"5 numbers of children" and 18 buyers which make it the lowest bike purchased. therefore, the higher the
+number of children, the lower the number of bike purchased.
+
+![Image](https://github.com/user-attachments/assets/9ca43bd2-26bc-4931-9298-586809b5cfec)
+
+
+
 # DASHBOARD VIEW
 ![Image](https://github.com/user-attachments/assets/58c7b19c-e132-461a-935c-de6390e5a8c0)
 
