@@ -55,7 +55,7 @@ number of children, the lower the number of bike purchased.
 ![Image](https://github.com/user-attachments/assets/9ca43bd2-26bc-4931-9298-586809b5cfec)
 
 ## PURCHASED BIKE BY HOME OWNER
-The buyers that owned a home have 336 numbers of buyer which make it the highest bike purchased
+The buyers that owned a home have 332 numbers of buyer which make it the highest bike purchased
 and the buyers that does not owned a home have 163 numbers of buyer have the least bike purchased.
 
 ![Image](https://github.com/user-attachments/assets/4e793a9a-1b82-45c8-b78a-e18ce37066de)
