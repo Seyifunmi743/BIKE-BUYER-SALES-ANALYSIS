@@ -34,11 +34,14 @@ Region: Geographic region where the customer resides.
 
 Purchased Bike: Whether the customer purchased a bike (Yes/No).
 
+## PURCHASED BIKE BY INCOME
+
+The Bike purchased of (94 buyers and $50,000 income) has the highest bike purchased
+while bike purchased of (3 buyers  $160,000 income) has the least bike purchased.
+
+![Image](https://github.com/user-attachments/assets/e9a97346-da35-4abe-8d86-0f41213dd766)
+
+
 # DASHBOARD VIEW
 ![Image](https://github.com/user-attachments/assets/58c7b19c-e132-461a-935c-de6390e5a8c0)
 
-## PURCHASED BIKE BY INCOME
-![Image](https://github.com/user-attachments/assets/e9a97346-da35-4abe-8d86-0f41213dd766)
-
-The Bike purchased with 94 buyers and $50,000 income has the highest bike purchased
-while buyers that earned $160,000 has the least purchased.
