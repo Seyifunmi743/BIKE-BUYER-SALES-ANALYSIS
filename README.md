@@ -72,6 +72,12 @@ Skilled Manual have 118 buyers which make it the higest bike purchased, and Manu
 
 ![Image](https://github.com/user-attachments/assets/4afc1227-d958-4b07-8f2d-06bc848f6f8b)
 
+## PURCHASED BIKE BY EDUCATION
+Bachelors have 169 buyers which make it the highest bike purchased comapred to partial high school
+with 22 buyers which make it the least bike purchased.
+ 
+![Image](https://github.com/user-attachments/assets/e5fb4819-385d-4638-94fe-4878b05116c8)
+
 # DASHBOARD VIEW
 ![Image](https://github.com/user-attachments/assets/58c7b19c-e132-461a-935c-de6390e5a8c0)
 
