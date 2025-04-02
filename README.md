@@ -33,3 +33,5 @@ Commute Distance: Distance traveled for work.
 Region: Geographic region where the customer resides.
 
 Purchased Bike: Whether the customer purchased a bike (Yes/No).
+
+![Image](https://github.com/user-attachments/assets/58c7b19c-e132-461a-935c-de6390e5a8c0)
