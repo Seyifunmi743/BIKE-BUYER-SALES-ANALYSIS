@@ -78,6 +78,12 @@ with 22 buyers which make it the least bike purchased.
  
 ![Image](https://github.com/user-attachments/assets/e5fb4819-385d-4638-94fe-4878b05116c8)
 
+## PURCHASED BIKE BY EDUCATION
+Male gender have the highest bike purchasd with 252 buyers compare to Female gender which have the lowest
+bike purchased with 243 buyers.
+![Image](https://github.com/user-attachments/assets/36a29dac-6025-45ef-9975-010c8b63dd25)
+
+
 # DASHBOARD VIEW
 ![Image](https://github.com/user-attachments/assets/58c7b19c-e132-461a-935c-de6390e5a8c0)
 
