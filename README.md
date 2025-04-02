@@ -60,6 +60,12 @@ and the buyers that does not owned a home have 163 numbers of buyer have the lea
 
 ![Image](https://github.com/user-attachments/assets/4e793a9a-1b82-45c8-b78a-e18ce37066de)
 
+## PURCHASED BIKE BY REGION
+North America has 220 buyers which make it the higest region of bike purchased compared to
+Pacific with the lowest bike purchased region with 119 number of buyers.
+
+![Image](https://github.com/user-attachments/assets/67c47725-d86d-4f99-a923-cb0ce69f4cda)
+
 
 # DASHBOARD VIEW
 ![Image](https://github.com/user-attachments/assets/58c7b19c-e132-461a-935c-de6390e5a8c0)
