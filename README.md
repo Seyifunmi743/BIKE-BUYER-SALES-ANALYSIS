@@ -66,6 +66,11 @@ Pacific with the lowest bike purchased region with 119 number of buyers.
 
 ![Image](https://github.com/user-attachments/assets/67c47725-d86d-4f99-a923-cb0ce69f4cda)
 
+## PURCHASED BIKE BY OCCUPATION
+Skilled Manual have 118 buyers which make it the higest bike purchased, and Manual have
+59 buyers which make it the least bike purchased.
+
+![Image](https://github.com/user-attachments/assets/4afc1227-d958-4b07-8f2d-06bc848f6f8b)
 
 # DASHBOARD VIEW
 ![Image](https://github.com/user-attachments/assets/58c7b19c-e132-461a-935c-de6390e5a8c0)
