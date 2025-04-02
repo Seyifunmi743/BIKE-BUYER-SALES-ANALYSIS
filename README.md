@@ -41,7 +41,11 @@ while bike purchased of (3 buyers  $160,000 income) has the least bike purchased
 
 ![Image](https://github.com/user-attachments/assets/e9a97346-da35-4abe-8d86-0f41213dd766)
 
+## PURCHASED BIKE BY MARITAL STATUS
 
+The single with 259 buyers has the highest purchased of bike comapred to married with 236 buyers that has the least number of buyers ....
+
+![Image](https://github.com/user-attachments/assets/43d88b4a-1ae1-4ffc-9bba-d9a8699bce7d)
 # DASHBOARD VIEW
 ![Image](https://github.com/user-attachments/assets/58c7b19c-e132-461a-935c-de6390e5a8c0)
 
