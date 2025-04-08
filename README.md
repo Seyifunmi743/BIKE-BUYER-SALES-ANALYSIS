@@ -84,10 +84,10 @@ bike purchased with 243 buyers.
 ![Image](https://github.com/user-attachments/assets/36a29dac-6025-45ef-9975-010c8b63dd25)
 
 
-# DASHBOARD VIEW
+# DASHBOARD VIEW 1
  
 ![Image](https://github.com/user-attachments/assets/38b9d397-c647-49db-8a5b-be2273cdfba4)
 
- 
+# DASHBOARD VIEW 2
 ![Image](https://github.com/user-attachments/assets/8f3a57c8-7afa-4bff-916a-85d4b5205b02)
 
