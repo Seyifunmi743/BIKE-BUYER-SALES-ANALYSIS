@@ -89,7 +89,7 @@ Partial college education comes next, suggesting young adults or students are in
 
 Lower education levels (Partial High School) correspond with fewer purchases.
 
-# Conclusion: Education level correlates with bike purchases — more educated individuals are more likely to buy bikes.
+ Conclusion: Education level correlates with bike purchases — more educated individuals are more likely to buy bikes.
 ![Image](https://github.com/user-attachments/assets/e5fb4819-385d-4638-94fe-4878b05116c8)
 
 ## PURCHASED BIKE BY GENDER
@@ -160,7 +160,8 @@ Suggests bikes are a common lifestyle or commuting investment for those in stabl
 
 ## Recommendations
 
-🎯 Target Audience Profile
+🎯Target Audience Profile
+
 Age: Adults (30–50 years)
 
 Gender: Both Male and Female
