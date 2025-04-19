@@ -10,13 +10,13 @@ Bike_Buyers_SY EXCEL.xlsx
 
 The dataset consists of multiple attributes that describe customer demographics and purchasing behavior. It can be used for predictive analytics, identifying customer segments, and understanding factors influencing bike purchases.
 
-#   Total Income: $57,670,000
+  Total Income: $57,670,000
 
-#   Average Income: $56,209
+   Average Income: $56,209
 
-#   Max Income: $170,000
+   Max Income: $170,000
 
-#   Min Income: $10,000
+   Min Income: $10,000
 
  
 
@@ -69,19 +69,19 @@ Professionals seem to prioritize bikes, perhaps for commuting or fitness.
 ![Image](https://github.com/user-attachments/assets/4afc1227-d958-4b07-8f2d-06bc848f6f8b)
 
 ## PURCHASED BIKE BY EDUCATION
-# Education           Level	Purchases
+ Education           Level	Purchases
 
-# Bachelors	                169
+ Bachelors	                169
 
-# Graduate Degree           	95
+ Graduate Degree           	95
 
-# High School	               82
+ High School	               82
 
-# Partial College	           127
+ Partial College	           127
 
-# Partial High School	       22
+ Partial High School	       22
 
- # Insights:
+  Insights:
 
 Those with a Bachelor’s degree are the top bike purchasers.
 
